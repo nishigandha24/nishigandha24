@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @nishigandha24
-- 👀 I’m interested in AI & Machine Learning 
+- 👋 Hellooo, I’m @nishigandha24
+- 👀 I’m interested in AI & ML 
 - 🌱 I’m currently solving Kaggle problems
-- 💞️ I’m looking to collaborate on ML & DNN applications
+- 💞️ I’m looking to collaborate on Generative AI & Agentic AI applications
 - 📫 Please reach me at nisheegandhabhookan@gmail.com 
 
 <!---
